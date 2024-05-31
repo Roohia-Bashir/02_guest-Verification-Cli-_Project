@@ -6,7 +6,8 @@ Installation:
 
 To install and use this CLI tool, simply run the following command:
 
-Copy code
+Copy code:
 
 npm i rs265_guest-verification-cli_project
+
 npx rs265_guest-verification-cli_project
